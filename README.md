@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nektariosgerontzos
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning applid informatics
+- 🌱 I’m currently learning applied informatics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
