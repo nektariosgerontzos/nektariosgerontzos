@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nektariosgerontzos
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning applied informatics
+- 👀 I’m interested in Java programming
+- 🌱 I’m currently studying Applied Informatics and Information Systems
 
 About
 
