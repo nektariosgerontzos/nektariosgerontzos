@@ -1,6 +1,6 @@
 About
 
-  I am currently pursuing my university degree in Applied Informatics at University of Macedonia and I am working as a junior data engineer. 
+  I recently obtainded my university degree in Applied Informatics at University of Macedonia and I am working as a junior data engineer. 
   I like coding, studying and expanding my knowledge in Software and Data Engineering. I am always up for new challenges
 
 <!---
